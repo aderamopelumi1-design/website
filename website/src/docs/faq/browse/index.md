@@ -7,7 +7,7 @@ description: Frequently Asked Questions about Browse.
 # Browse
 Frequently Asked Questions about Browse.
 
-## Why can't I see installed sources?
+## Why can't  I see installed sources?
 
 ### If the extension language differs from your device's primary language
 Enable the source's language at <nav to="sources">, tap on **Filter**, then turn on the language of the desired source.
